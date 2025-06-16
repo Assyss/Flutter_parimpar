@@ -1,2 +1,2 @@
 # Flutter_parimpar
-Aplicativo Flutter que simula um jogo de Par ouentre joga
+Aplicativo Flutter que simula um jogo de par ou impar.
